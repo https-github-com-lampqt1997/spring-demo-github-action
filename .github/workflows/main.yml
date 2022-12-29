@@ -1,31 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@lampqt1997 
-lampqt1997
-/
-spring-pj-demo-github-action
-Private
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-spring-pj-demo-github-action/.github/workflows/manual.yml
-@lampqt1997
-lampqt1997 Create manual.yml
-Latest commit 10e7a32 2 hours ago
- History
- 1 contributor
-30 lines (26 sloc)  1002 Bytes
+
 
 # This is a basic workflow that is manually triggered
 
